@@ -6,17 +6,21 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
-#. D. Huppenkothen, A. Arendt, D.W. Hogg, K. Ram, J. Vanderplas, **A. Rokem** 
+#. D. Huppenkothen, A. Arendt, D.W. Hogg, K. Ram, J. Vanderplas, **A. Rokem**
    (2018). Hack Weeks as a model for Data Science Education and Collaboration.  `preprint <https://arxiv.org/abs/1711.00028>`_.
+
+#. E. Huber, P.M. Donnelly, **A. Rokem**, J.D. Yeatman (2018). Rapid and widespread white matter
+   plasticity during an intensive reading intervention. *Nature Communications* 9: 2260.
+   `pdf <https://www.nature.com/articles/s41467-018-04627-5>`_
 
 #. **A. Rokem**, Y. Wu, A. Lee (2018). Assessment of the need for separate test
    set and number of medical images necessary for deep learning: a sub-sampling
-   study. 
+   study.
    `preprint <https://www.biorxiv.org/content/early/2017/10/01/196659.1>`_
 
-#. J.D. Yeatman, A. Richie-Halford, J.K. Smith, A. Keshavan, 
-   **A. Rokem** (2018). AFQ-Browser: Supporting reproducible human neuroscience 
-   research through browser-based visualization tools. *Nature Communications* 
+#. J.D. Yeatman, A. Richie-Halford, J.K. Smith, A. Keshavan,
+   **A. Rokem** (2018). AFQ-Browser: Supporting reproducible human neuroscience
+   research through browser-based visualization tools. *Nature Communications*
    9: 940
    `pdf <https://www.nature.com/articles/s41467-018-03297-7>`_,
    `software <https://github.com/yeatmanlab/AFQ-Browser>`_.
@@ -26,7 +30,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
    **A. Rokem**, T.K. Teal, R.V. Guimera, J.T. Vanderplas (2018). Journal
    of Open Source Software (JOSS): design and first-year review. *PeerJ Computer
    Science* 4:e147 `pdf <https://peerj.com/articles/cs-147/>`_.
-   
+
 #. S. Xiao, F. Bucher, Y. Wu, **A. Rokem**, C.S. Lee, K.V. Marra, R. Fallon,6
    S. Diaz-Aguilar, E. Aguilar, M. Friedlander, and A.Y. Lee (2017).
    Fully automated, deep learning segmentation of oxygen-induced retinopathy
