@@ -6,11 +6,28 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+
+#. A. Keshavan, J. Yeatman, **A. Rokem** (2018). Combining citizen science and deep
+   learning to amplify expertise in neuroimaging.
+   `preprint <https://doi.org/10.1101/363382>`_
+   `interactive paper <http://results.braindr.us/>_
+
 #. D. Huppenkothen, A. Arendt, D.W. Hogg, K. Ram, J. Vanderplas, **A. Rokem**
    (2018). Hack Weeks as a model for Data Science Education and Collaboration.  `preprint <https://arxiv.org/abs/1711.00028>`_.
 
-#. E. Huber, P.M. Donnelly, **A. Rokem**, J.D. Yeatman (2018). Rapid and widespread white matter
-   plasticity during an intensive reading intervention. *Nature Communications* 9: 2260.
+#. A. Richie-Halford, **A. Rokem** (2018). Cloudknot: A Python Library to Run your
+   Existing Code on AWS Batch. *Proceedings of the 17th Python in Science
+   Conference* (SciPy 2018) F. Akici, D. Lippa, D. Niederhut, M. Pacer (Eds.).
+   `paper <http://conference.scipy.org/proceedings/scipy2018/adam_richie-halford.html>`_
+   `software <https://richford.github.io/cloudknot/>`_
+
+#. **A. Rokem** (2018). A short course about fitting models with the `scipy.optimize`
+   module. *Journal of Open Source Education* 1(2): 16.
+   `pdf <http://jose.theoj.org/papers/25305d3b2e88f1b1d0f98b762ffdca03>`_.
+
+#. E. Huber, P.M. Donnelly, **A. Rokem**, J.D. Yeatman (2018). Rapid and widespread
+   white matter plasticity during an intensive reading intervention.
+   *Nature Communications* 9: 2260.
    `pdf <https://www.nature.com/articles/s41467-018-04627-5>`_
 
 #. **A. Rokem**, Y. Wu, A. Lee (2018). Assessment of the need for separate test
@@ -53,8 +70,10 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
    `software <https://github.com/uw-biomedical-ml/irf-segmenter>`_.
 
 #. M. Beyeler, G. M. Boynton, I. Fine, **A Rokem** (2017). `pulse2percept`: A
-   Python-based simulation framework for bionic vision.
-   `preprint <http://biorxiv.org/content/early/2017/06/09/148015>`_,
+   Python-based simulation framework for bionic vision. *Proceedings of the 16th
+   Python in Science  Conference* (SciPy 2018) K. Huff, D. Lippa, D. Niederhut, M.
+   Pacer(Eds.)
+   `pdf <http://conference.scipy.org/proceedings/scipy2017/michael_beyeler.html>`_,
    `software <https://uwescience.github.io/pulse2percept/>`_.
 
 #. P. Mehta, S. Dorkenwald, D. Zhao, T. Kaftan, A. Cheung, M. Balazinska,
