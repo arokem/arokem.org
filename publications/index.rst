@@ -1,15 +1,5 @@
 .. _publications:
 
-======================================
-Preprints submitted for peer review
-======================================
-
-#. A. Keshavan, J. Yeatman, **A. Rokem** (2018). Combining citizen science and deep
-   learning to amplify expertise in neuroimaging.
-   `preprint <https://doi.org/10.1101/363382>`_
-   `interactive paper <http://results.braindr.us/>`_
-
-
 ============
 Publications
 ============
@@ -17,6 +7,10 @@ Publications
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 `preprint <https://arxiv.org/abs/1711.00028>`_.
 
+#. A. Keshavan, J. Yeatman, **A. Rokem** (2018). Combining citizen science and deep
+   learning to amplify expertise in neuroimaging.
+   `preprint <https://doi.org/10.1101/363382>`_
+   `interactive paper <http://results.braindr.us/>`_
 
 #.  Huber, E., Neto Henriques, R., Owen, J. O., **Rokem, A.**, and Yeatman, J.
     (2019). Applying microstructural models to understand the role of white
