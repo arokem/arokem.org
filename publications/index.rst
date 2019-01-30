@@ -9,14 +9,6 @@ Preprints submitted for peer review
    `preprint <https://doi.org/10.1101/363382>`_
    `interactive paper <http://results.braindr.us/>`_
 
-#. D. Huppenkothen, A. Arendt, D.W. Hogg, K. Ram, J. Vanderplas, **A. Rokem**
-   (2018). Hack Weeks as a model for Data Science Education and Collaboration.
-
-#. **A. Rokem**, Y. Wu, A. Lee (2018). Assessment of the need for separate test
-   set and number of medical images necessary for deep learning: a sub-sampling
-   study.
-   `preprint <https://www.biorxiv.org/content/early/2017/10/01/196659.1>`_
-
 
 ============
 Publications
@@ -24,6 +16,21 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 `preprint <https://arxiv.org/abs/1711.00028>`_.
+
+
+#.  Huber, E., Neto Henriques, R., Owen, J. O., **Rokem, A.**, and Yeatman, J.
+    (2019). Applying microstructural models to understand the role of white
+    matter in cognitive development. *Developmental Cognitive Neuroscience*
+
+#.  Tian, Q., Yang, G., Leuze, C., **Rokem, A.**, Edlow, B., and McNab, J. A.
+    (2019). Model-free Fourier reconstruction of the ensemble average propagator
+    from multi-shell diffusion MRI data. *NeuroImage*
+
+#.  Huppenkothen, D., Arendt, A., Hogg, D. W., Ram, K., VanderPlas, J. T., and
+    **Rokem, A** (2018). Hack weeks as a model for data science education and
+    collaboration. *Proceedings of the National Academy of Sciences*,
+    115(36):8872–8877.
+    `paper <https://www.pnas.org/content/early/2018/08/17/1717196115>`_.
 
 #. A. Richie-Halford, **A. Rokem** (2018). Cloudknot: A Python Library to Run your
    Existing Code on AWS Batch. *Proceedings of the 17th Python in Science

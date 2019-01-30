@@ -1,11 +1,12 @@
 
 Senior Data Scientist and a Data Science Fellow at the `University of Washington eScience Institute <http://escience.washington.edu>`_
 
-Member of the `University of Washington Institute for Neuroengineering <http://uwin.washington.edu>`_
+Member of the `University of Washington Institute for Neuroengineering <http://uwin.washington.edu>`_ and the
+`Computational Neuroscience Center <https://compneuro.washington.edu/>`_
 
-Chair of the `Reproducibility and Open Science Working Group <http://uwescience.github.io/reproducible/>`_ at the eScience Institute.
+Chair of the `Special Interest Group in Neuroinformatics <http://uwescience.github.io/neuroinformatics/>`_ at the eScience Institute.
 
-Director of the `Summer Institute in Neuroimaging and Data Science <https://neurohackweek.github.io/>`_.
+Director of the `Summer Institute in Neuroimaging and Data Science <https://neurohackacdemy.org/>`_.
 
 __ escience_
 __ uwin_
