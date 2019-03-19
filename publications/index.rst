@@ -7,6 +7,11 @@ Publications
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 `preprint <https://arxiv.org/abs/1711.00028>`_.
 
+#. C.S. Lee, A.J. Tyring, Y. Wu, S. Xiao, **A. Rokem**, N.P. Deruyter, Q. Zhang,
+   A. Tufail, R.K. Wang, A.Y. Lee (2019). Generating retinal flow maps from
+   structural optical coherence tomography with artificial intelligence.
+   *Scientific Reports*
+
 #. A. Keshavan, J. Yeatman, **A. Rokem** (2018). Combining citizen science and deep
    learning to amplify expertise in neuroimaging.
    `preprint <https://doi.org/10.1101/363382>`_
