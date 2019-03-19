@@ -6,7 +6,7 @@
  Reproducibility and open science
 =======================================
 
-I am the chair of the `eScience Working Group on Reproducibility and Open
+I was the chair of the `eScience Working Group on Reproducibility and Open
 Science <http://uwescience.github.io/reproducible>`_. As part of the activities
 of the working group, we are interested in clarifying guidelines for steps that
 researchers at UW and elsewhere can take to increase the reproducibility and
