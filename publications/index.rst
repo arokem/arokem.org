@@ -12,10 +12,10 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
    structural optical coherence tomography with artificial intelligence.
    *Scientific Reports*
 
-#. A. Keshavan, J. Yeatman, **A. Rokem** (2018). Combining citizen science and deep
+#. A. Keshavan, J. Yeatman, **A. Rokem** (2019). Combining citizen science and deep
    learning to amplify expertise in neuroimaging.
    `preprint <https://doi.org/10.1101/363382>`_
-   `interactive paper <http://results.braindr.us/>`_
+   `interactive paper <http://results.braindr.us/>`_. *Frontiers in Neuroinformatics*
 
 #.  Huber, E., Neto Henriques, R., Owen, J. O., **Rokem, A.**, and Yeatman, J.
     (2019). Applying microstructural models to understand the role of white
