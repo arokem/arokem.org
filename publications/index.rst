@@ -7,6 +7,10 @@ Publications
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 `preprint <https://arxiv.org/abs/1711.00028>`_.
 
+#.  J. Bain, J. Yeatman, R. Schurr, **A. Rokem**, and Mezer, A. (2019).
+    Laterality of the arcuate fasciculus depends on choice of tractography.
+    *Human Brain Mapping*
+
 #. C.S. Lee, A.J. Tyring, Y. Wu, S. Xiao, **A. Rokem**, N.P. Deruyter, Q. Zhang,
    A. Tufail, R.K. Wang, A.Y. Lee (2019). Generating retinal flow maps from
    structural optical coherence tomography with artificial intelligence.

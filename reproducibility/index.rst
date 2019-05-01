@@ -104,8 +104,11 @@ Publications in open access journals
 Slide decks from talks that I have given
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Talk given at the annual PNW Prostate Cancer SPORES:
-https://arokem.github.io/2017-07-24-spore/
+- Talk given at the 2019 BRAIN Initiative PI meeting: https://arokem.github.io/2019-BRAINI-PanNeuro-slides/
+
+- Talk given to the BRAIN Initiative Working Group 2.0 Workshop https://arokem.github.io/2018-10-04-BRAIN-ACD/
+
+- Talk given at the annual PNW Prostate Cancer SPORES: https://arokem.github.io/2017-07-24-spore/
 
 - Talk about `pulse2percept` incubator project -- models for retinal prosthetics: http://arokem.github.io/2016-03-27-pulse2percept
 
