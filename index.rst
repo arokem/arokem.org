@@ -6,7 +6,7 @@ Member of the `University of Washington Institute for Neuroengineering <http://u
 
 Chair of the `Special Interest Group in Neuroinformatics <http://uwescience.github.io/neuroinformatics/>`_ at the eScience Institute.
 
-Director of the `Summer Institute in Neuroimaging and Data Science <https://neurohackacdemy.org/>`_.
+Director of the `Summer Institute in Neuroimaging and Data Science <https://neurohackademy.org/>`_.
 
 __ escience_
 __ uwin_

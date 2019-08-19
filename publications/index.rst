@@ -5,29 +5,37 @@ Publications
 ============
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
-`preprint <https://arxiv.org/abs/1711.00028>`_.
+
+#.  M. Beyeler, D. Nanduri, J.D. Weiland, **A Rokem**, G.M. Boynton and
+    I. Fine (2019) A model of ganglion axon pathways accounts for percepts
+    elicited by retinal implants. *Scientific Reports* 9: 9199.
+    `paper <https://www.nature.com/articles/s41598-019-45416-4>`_.
 
 #.  J. Bain, J. Yeatman, R. Schurr, **A. Rokem**, and Mezer, A. (2019).
-    Laterality of the arcuate fasciculus depends on choice of tractography.
-    *Human Brain Mapping*
+    Evaluating arcuate fasciculus laterality measurements across dataset and
+    tractography pipelines. *Human Brain Mapping*
 
 #. C.S. Lee, A.J. Tyring, Y. Wu, S. Xiao, **A. Rokem**, N.P. Deruyter, Q. Zhang,
    A. Tufail, R.K. Wang, A.Y. Lee (2019). Generating retinal flow maps from
    structural optical coherence tomography with artificial intelligence.
-   *Scientific Reports* `paper <https://www.nature.com/articles/s41598-019-42042-y>`_.
+   *Scientific Reports* 9:5694.
+   `paper <https://www.nature.com/articles/s41598-019-42042-y>`_.
 
 #. A. Keshavan, J. Yeatman, **A. Rokem** (2019). Combining citizen science and deep
    learning to amplify expertise in neuroimaging.
+   *Frontiers in Neuroinformatics* 13:29.
    `paper <https://www.frontiersin.org/articles/10.3389/fninf.2019.00029/abstract>`_
-   `interactive version <http://results.braindr.us/>`_. *Frontiers in Neuroinformatics*
+   `interactive version <http://results.braindr.us/>`_.
 
 #.  Huber, E., Neto Henriques, R., Owen, J. O., **Rokem, A.**, and Yeatman, J.
     (2019). Applying microstructural models to understand the role of white
     matter in cognitive development. *Developmental Cognitive Neuroscience*
+    36: 100624.
 
 #.  Tian, Q., Yang, G., Leuze, C., **Rokem, A.**, Edlow, B., and McNab, J. A.
-    (2019). Model-free Fourier reconstruction of the ensemble average propagator
-    from multi-shell diffusion MRI data. *NeuroImage*
+    (2019). Generalized diffusion spectrum magnetic resonance imaging (GDSI)
+    for model-free reconstruction of the ensemble average propagator.
+    *NeuroImage* 189:497–515.
 
 #.  Huppenkothen, D., Arendt, A., Hogg, D. W., Ram, K., VanderPlas, J. T., and
     **Rokem, A** (2018). Hack weeks as a model for data science education and
