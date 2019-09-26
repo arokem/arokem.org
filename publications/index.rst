@@ -6,6 +6,16 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. D. Bressler, **A. Rokem**, Silver, M. A. (in press). Slow endogenous
+   fluctuations in cortical fMRI signals correlate with reduced performance in
+   a visual detection task and are suppressed by spatial attention.
+   *Journal of Cognitive Neuroscience*
+
+#. M. Beyeler, G.M. Boynton, I. Fine, **A. Rokem** (2019). Model-based
+   recommendations for optimal surgical placement of epiretinal implants. The
+   *MICCAI 2019, Shenzhen, China, Oct. 13-17, 2019*
+   `preprint <https://www.biorxiv.org/content/10.1101/743484v1>`_
+
 #.  M. Beyeler, D. Nanduri, J.D. Weiland, **A Rokem**, G.M. Boynton and
     I. Fine (2019) A model of ganglion axon pathways accounts for percepts
     elicited by retinal implants. *Scientific Reports* 9: 9199.
