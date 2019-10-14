@@ -6,7 +6,7 @@
 .. _site: http://arokem.org
 .. _github: http://github.com/arokem
 .. _calendar: https://www.google.com/calendar/embed?src=arokem%40gmail.com&ctz=America/Los_Angeles
-.. _blog: http://arokem.github.io
+.. _blog: http://arokem.github.io/rokem-research
 
 .. UW
 .. _escience: http://escience.washington.edu
