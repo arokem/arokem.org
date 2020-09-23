@@ -1,5 +1,7 @@
 
-Research Assistant Professor at the `University of Washington Department of Psychology <https://psych.uw.edu/>`_ and a Data Science Fellow at the `University of Washington eScience Institute <http://escience.washington.edu>`_.
+Research Assistant Professor at the `University of Washington Department of Psychology <https://psych.uw.edu/>`_.
+
+Data Science Fellow at the `University of Washington eScience Institute <http://escience.washington.edu>`_.
 
 Director of the `Neuroinformatics Research & Development Group <http://neuroinformatics.uw.edu/>`_.
 

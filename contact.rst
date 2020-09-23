@@ -2,17 +2,12 @@ Contact
 =======
 
    Email::
-   
-     arokem-atSign-gmail.com
-     
+
+     arokem-atSign-uw.edu
+
    Address::
- 
-     WRF Data Science Studio
-     Physics/Astronomy Tower, 6th Floor
-     3910 15th Ave NE
-     Campus Box 351570
+
+     Department of Psychology
+     119A Guthrie Hall
      University of Washington
      Seattle, WA 98105
- 
-
-
