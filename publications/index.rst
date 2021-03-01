@@ -6,10 +6,22 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
-#. D. Bressler, **A. Rokem**, Silver, M. A. (in press). Slow endogenous
+#. A. Richie-Halford, M. Narayan, J. Yeatman, N. Simon, **A Rokem** (2021)
+   Groupyr: Sparse Group Lasso in Python. *Journal of Open Source Software*, 6
+   (58), 3024.
+   `pdf <https://academic.oup.com/gigascience/article/9/12/giaa133/6011381>`_,
+   `software <https://richiehalford.org/groupyr/>`_
+
+#. **A. Rokem** , K. Kay (2020). Fractional ridge regression: a fast,
+   interpretable reparameterization of ridge regression. *GigaScience*,
+   GigaScience, Volume 9, Issue 12, December 2020, giaa133.
+   `pdf <https://academic.oup.com/gigascience/article/9/12/giaa133/6011381>`_,
+   `software <https://nrdg.github.io/fracridge/>`_
+
+#. D. Bressler, **A. Rokem**, Silver, M. A. (2020). Slow endogenous
    fluctuations in cortical fMRI signals correlate with reduced performance in
    a visual detection task and are suppressed by spatial attention.
-   *Journal of Cognitive Neuroscience*
+   *Journal of Cognitive Neuroscience* 32:85-99.
 
 #. M. Beyeler, G.M. Boynton, I. Fine, **A. Rokem** (2019). Model-based
    recommendations for optimal surgical placement of epiretinal implants. The
