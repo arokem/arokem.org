@@ -6,6 +6,12 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. Mehta, P., Petersen, C. A., Wen, J. C., Bannit, M. R., Chen, P. P.,
+   Bojikian, K. D., Egan, C., Lee, S.- I., Balazinska, M., Lee, A. Y., and
+   **Rokem, A.** (in press). Automated detection of glaucoma with interpretable
+   machine learning using clinical data and multi-modal retinal images.
+   *American Journal of Ophthalmology*
+
 #. A. Richie-Halford, M. Narayan, J. Yeatman, N. Simon, **A Rokem** (2021)
    Groupyr: Sparse Group Lasso in Python. *Journal of Open Source Software*, 6
    (58), 3024.
