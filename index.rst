@@ -1,5 +1,5 @@
 
-Research Assistant Professor at the `University of Washington Department of Psychology <https://psych.uw.edu/>`_.
+Research Associate Professor at the `University of Washington Department of Psychology <https://psych.uw.edu/>`_.
 
 Data Science Fellow at the `University of Washington eScience Institute <http://escience.washington.edu>`_.
 

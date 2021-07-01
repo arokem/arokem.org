@@ -6,11 +6,51 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. Richie-Halford, A.,Yeatman, J.D.,Simon, N., and **Rokem, A.** (2021).
+   Multidimensional analysis and detection of informative features in diffusion
+   MRI measurements of human white matter. *PLoS Computational Biology*, in
+   press. `link <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009136>`_.
+
+#. Henriques, R., Correia, M., Maralle, M., Huber, E., Kruper, J., Koudoro, S.,
+   Yeatman, J. D., Gary- fallidis, E., and **Rokem, A.** (2021). Diffusion
+   Kurtosis Imaging in the Diffusion Imaging in Python project. *Frontiers in
+   Human Neuroscience*, in press. `link <https://www.frontiersin.org/articles/10.3389/fnhum.2021.675433>`_.
+
+#. Kruper, J., Yeatman, J. D., Richie-Halford, A., Bloom, D., Grotheer, M.,
+   Caffarra, S., Kiar, G., Karipidis, I. I., Roy, E., Chandio, B. Q.,
+   Garyfallidis, E., and **Rokem, A** (2021). Evaluating the reliability of
+   human brain white matter tractometry. *Aperture*, in press. `preprint <https://www.biorxiv.org/content/10.1101/2021.02.24.432740v2>`_.
+
+#. Cieslak, M., Cook, P. A., He, X., Yeh, F.-C., Dhollander, T., Adebimpe, A.,
+   Aguirre, G. K., Bassett, D. S., Betzel, R. F., Bourque, J., Cabral, L. M.,
+   Davatzikos, C., Detre, J., Earl, E., Elliott, M. A., Fadnavis, S., Fair, D.
+   A., Foran, W., Fotiadis, P., Garyfallidis, E., Giesbrecht, B., Gur, R. C.,
+   Gur, R. E., Kelz, M., Keshavan, A., Larsen, B. S., Luna, B., Mackey, A. P.,
+   Milham, M., Oathes, D. J., Perrone, A., Pines, A. R., Roalf, D. R.,
+   Richie-Halford, A., **Rokem, A**, Sydnor, V. J., Tapera, T. M., Tooley, U.
+   A, Vettel, J. M., Yeatman, J. D., Grafton, S. T., and Satterthwaite, T. D.
+   (2021). QSIPrep: An integrative platform for preprocessing and
+   reconstructing diffusion MRI. Nature Methods, in press. `pdf <https://www.nature.com/articles/s41592-021-01185-5.pdf>`_.
+
+#. Gau,R.,Noble,S.,Heuer,K.,Bottenhorn,K.L.,Bilgin,I.P.,Yang,Y.-F.,Huntenburg,
+   J. M.,Bayer, J. M. M., Bethlehem, R. A. I., Rhoads, S. A., Vogelbacher, C.,
+   Borghesani, V., Levitis, E., Wang, H.-T., Van Den Bossche, S., Kobeleva, X.,
+   Legarreta, J. H., Guay, S., Atay, S. M., Varoquaux, G. P., Huijser, D. C.,
+   Sandström, M. S., Herholz, P., Nastase, S. A., Badhwar, A., Dumas, G.,
+   Schwab, S., Moia, S., Dayan, M., Bassil, Y., Brooks, P. P., Mancini, M.,
+   Shine, J. M., O’Connor, D., Xie, X., Poggiali, D., Friedrich, P., Heinsfeld,
+   A. S., Riedl, L., Toro, R., Caballero-Gaudes, C., Eklund, A., Garner, K. G.,
+   Nolan, C. R., Demeter, D. V., Barrios, F. A., Merchant, J. S., McDevitt, E.
+   A., Oostenveld, R., Craddock, R. C., Rokem, A, Doyle, A., Ghosh, S. S.,
+   Nikolaidis, A., Stanley, O. W., Uruñuela, E., and The Brainhack Community
+   (2021). Brainhack: Developing a culture of open, inclusive, community-driven
+   neuroscience. Neuron, 109. `pdf <https://www.cell.com/neuron/pdf/S0896-6273(21)00231-2.pdf>`_.
+
 #. Mehta, P., Petersen, C. A., Wen, J. C., Bannit, M. R., Chen, P. P.,
    Bojikian, K. D., Egan, C., Lee, S.- I., Balazinska, M., Lee, A. Y., and
    **Rokem, A.** (in press). Automated detection of glaucoma with interpretable
    machine learning using clinical data and multi-modal retinal images.
-   *American Journal of Ophthalmology*
+   *American Journal of Ophthalmology* `preprint <https://www.biorxiv.org/content/10.1101/2020.02.26.967208v1.full>`_.
 
 #. A. Richie-Halford, M. Narayan, J. Yeatman, N. Simon, **A Rokem** (2021)
    Groupyr: Sparse Group Lasso in Python. *Journal of Open Source Software*, 6
@@ -27,7 +67,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
 #. D. Bressler, **A. Rokem**, Silver, M. A. (2020). Slow endogenous
    fluctuations in cortical fMRI signals correlate with reduced performance in
    a visual detection task and are suppressed by spatial attention.
-   *Journal of Cognitive Neuroscience* 32:85-99.
+   *Journal of Cognitive Neuroscience* 32:85-99. `full text <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6920021/>`_.
 
 #. M. Beyeler, G.M. Boynton, I. Fine, **A. Rokem** (2019). Model-based
    recommendations for optimal surgical placement of epiretinal implants. The
@@ -41,7 +81,7 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
 
 #.  J. Bain, J. Yeatman, R. Schurr, **A. Rokem**, and Mezer, A. (2019).
     Evaluating arcuate fasciculus laterality measurements across dataset and
-    tractography pipelines. *Human Brain Mapping*
+    tractography pipelines. *Human Brain Mapping*. `full text <https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.24626>`_.
 
 #. C.S. Lee, A.J. Tyring, Y. Wu, S. Xiao, **A. Rokem**, N.P. Deruyter, Q. Zhang,
    A. Tufail, R.K. Wang, A.Y. Lee (2019). Generating retinal flow maps from
@@ -49,10 +89,10 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
    *Scientific Reports* 9:5694.
    `paper <https://www.nature.com/articles/s41598-019-42042-y>`_.
 
-#. A. Keshavan, J. Yeatman, **A. Rokem** (2019). Combining citizen science and deep
-   learning to amplify expertise in neuroimaging.
+#. A. Keshavan, J. Yeatman, **A. Rokem** (2019). Combining citizen science and
+   deep learning to amplify expertise in neuroimaging.
    *Frontiers in Neuroinformatics* 13:29.
-   `paper <https://www.frontiersin.org/articles/10.3389/fninf.2019.00029/abstract>`_
+   `full text <https://www.frontiersin.org/articles/10.3389/fninf.2019.00029>`_
    `interactive version <http://results.braindr.us/>`_.
 
 #.  Huber, E., Neto Henriques, R., Owen, J. O., **Rokem, A.**, and Yeatman, J.
