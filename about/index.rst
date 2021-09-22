@@ -8,7 +8,7 @@ Professional bio
 Research experience
 -------------------
    ===========    ===============================================================
-   2020 -           Research Assistant Professor at the `University of Washington Psychology Department`__
+   2020 -           Research faculty at the `University of Washington Psychology Department`__
 
    2015 - 2020      Data scientist at the `University of Washington eScience Institute`__.
 

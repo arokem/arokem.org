@@ -6,13 +6,44 @@ Publications
 
 See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBeLVYAAAAJ&hl=en>`_.
 
+#. Graham, S. I., **Rokem, A.**, Fortunel, C., Kraft, N. J. B., and
+   Lambers, J. H. R. (2021).
+   Regularized regression: A new tool for investigating and
+   predicting tree growth. *Forests*, 12(9):1283. `link <https://www.mdpi.com/1999-4907/12/9/1283>`_.
+
+#. Levitis, E., van Praag, C.D.G., Gau, R., Heunis, S., DuPre, E., Kiar, G.,
+   Bottenhorn, K.L., Glatard,  T.,  Nikolaidis,  A.,  Whitaker,  K. J.,
+   Mancini,  M.,  Niso,  G.,  Afyouni,  S.,  Alonso-Ortiz,  E.,  Appelhoff,  S.
+   ,  Arnatkeviciute,  A.,  Atay,  S. M.,  Auer,  T.,  Baracchini,  G.,
+   Bayer,  J. M. M.,  Beauvais,  M. J. S.,  Bijsterbosch,  J. D.,  Bilgin,  I.
+   P.,  Bollmann,  S.,  Bollmann,  S.,  Botvinik-Nezer,  R.,  Bright,  M. G.,
+   Calhoun,  V. D.,  Chen,  X.,  Chopra,  S.,  Chuan-Peng,  H.,  Close,  T. G.
+   ,  Cookson,  S. L.,  Craddock,  R. C.,  De La Vega,  A.,  De Leener,  B.,
+   Demeter,  D. V.,  Di Maio,  P.,  Dickie,  E. W.,  Eickhoff,  S. B.,
+   Esteban,  O.,  Finc,  K.,  Frigo,  M.,  Ganesan,  S.,  Ganz,  M.,  Garner,
+   K. G.,  Garza-Villarreal,  E. A.,  Gonzalez- Escamilla,  G.,  Goswami,  R.,
+   Griffiths,  J. D.,  Grootswagers,  T.,  Guay,  S.,  Guest,  O.,
+   Handwerker,  D. A.,  Herholz,  P.,  Heuer,  K.,  Huijser,  D. C.,
+   Iacovella,  V.,  Joseph,  M. J. E.,  Karakuzu,  A.,  Keator,  D. B.,
+   Kobeleva,  X.,  Kumar,  M.,  Laird,  A. R.,  Larson-Prior,  L. J.,
+   Lautarescu,  A.,  Lazari,  A.,  Legar- reta,  J. H.,  Li,  X.-Y.,  Lv,  J.,
+   Mansour L.,  S.,  Meunier,  D.,  Moraczewski,  D.,  Nandi,  T.,  Nastase,
+   S. A.,  Nau,  M.,  Noble,  S.,  Norgaard,  M.,  Obungoloch,  J.,
+   Oostenveld,  R.,  Orchard,  E. R.,  Pinho, A. L.,  Poldrack,  R. A.,  Qiu,
+   A.,  Raamana,  P. R.,  **Rokem, A.**,  Rutherford,  S.,  Sharan,  M.,
+   Shaw,  T. B.,  Syeda,  W. T.,  Testerman,  M. M.,  Toro,  R.,  Valk,  S. L,
+   Van Den Bossche,  S.,  Varoquaux,  G.,  Váša,  F.,  Veldsman,  M.,
+   Vohryzek,  J., Wagner,  A. S.,  Walsh,  R. J.,  White,  T.,  Wong,  F.-T.,
+   Xie,  X., Yan,  C.-G.,  Yang,  Y.-F.,  Yee,  Y.,  Zanitti,  G. E.,  Van Gulick,  A. E.,  Duff,  E.,  and Maumet, C. (2021).
+   Centering inclusivity in the design of online conferences — An OHBM Open Science perspective. *GigaScience*, 10(8). `link <https://academic.oup.com/gigascience/article/10/8/giab051/6355274>`_
+
 #. Richie-Halford, A.,Yeatman, J.D.,Simon, N., and **Rokem, A.** (2021).
    Multidimensional analysis and detection of informative features in diffusion
    MRI measurements of human white matter. *PLoS Computational Biology*, in
    press. `link <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009136>`_.
 
 #. Henriques, R., Correia, M., Maralle, M., Huber, E., Kruper, J., Koudoro, S.,
-   Yeatman, J. D., Gary- fallidis, E., and **Rokem, A.** (2021). Diffusion
+   Yeatman, J. D., Garyfallidis, E., and **Rokem, A.** (2021). Diffusion
    Kurtosis Imaging in the Diffusion Imaging in Python project. *Frontiers in
    Human Neuroscience*, in press. `link <https://www.frontiersin.org/articles/10.3389/fnhum.2021.675433>`_.
 
@@ -32,18 +63,21 @@ See also my `Google Scholar page <https://scholar.google.com/citations?user=hrBe
    (2021). QSIPrep: An integrative platform for preprocessing and
    reconstructing diffusion MRI. Nature Methods, in press. `pdf <https://www.nature.com/articles/s41592-021-01185-5.pdf>`_.
 
-#. Gau,R.,Noble,S.,Heuer,K.,Bottenhorn,K.L.,Bilgin,I.P.,Yang,Y.-F.,Huntenburg,
-   J. M.,Bayer, J. M. M., Bethlehem, R. A. I., Rhoads, S. A., Vogelbacher, C.,
-   Borghesani, V., Levitis, E., Wang, H.-T., Van Den Bossche, S., Kobeleva, X.,
-   Legarreta, J. H., Guay, S., Atay, S. M., Varoquaux, G. P., Huijser, D. C.,
-   Sandström, M. S., Herholz, P., Nastase, S. A., Badhwar, A., Dumas, G.,
-   Schwab, S., Moia, S., Dayan, M., Bassil, Y., Brooks, P. P., Mancini, M.,
-   Shine, J. M., O’Connor, D., Xie, X., Poggiali, D., Friedrich, P., Heinsfeld,
-   A. S., Riedl, L., Toro, R., Caballero-Gaudes, C., Eklund, A., Garner, K. G.,
-   Nolan, C. R., Demeter, D. V., Barrios, F. A., Merchant, J. S., McDevitt, E.
-   A., Oostenveld, R., Craddock, R. C., Rokem, A, Doyle, A., Ghosh, S. S.,
-   Nikolaidis, A., Stanley, O. W., Uruñuela, E., and The Brainhack Community
-   (2021). Brainhack: Developing a culture of open, inclusive, community-driven
+#. Gau, R.,  Noble, S.,  Heuer, K., Bottenhorn, K.L., Bilgin, I.P., Yang, Y.-F.
+   , Huntenburg, J. M., Bayer,  J. M. M.,  Bethlehem,  R. A. I.,  Rhoads,  S. A.
+   ,  Vogelbacher,  C., Borghesani,  V.,  Levitis,  E.,  Wang,  H.-T.,
+   Van Den Bossche,  S.,  Kobeleva,  X., Legarreta,  J. H.,  Guay,  S.,  Atay,
+   S. M.,  Varoquaux,  G. P.,  Huijser,  D. C., Sandström,  M. S.,
+   Herholz,  P.,  Nastase,  S. A.,  Badhwar,  A.,  Dumas,  G.,
+   Schwab,  S.,  Moia,  S.,  Dayan,  M.,  Bassil,  Y.,  Brooks,  P. P.,
+   Mancini,  M., Shine,  J. M.,  O’Connor,  D.,  Xie,  X.,  Poggiali,  D.,
+   Friedrich,  P.,  Heinsfeld, A. S.,  Riedl,  L.,  Toro,  R.,
+   Caballero-Gaudes,  C.,  Eklund,  A.,  Garner,  K. G., Nolan,  C. R.,
+   Demeter,  D. V.,  Barrios,  F. A.,  Merchant,  J. S.,  McDevitt,  E.
+   A.,  Oostenveld,  R.,  Craddock,  R. C., **Rokem,  A**,  Doyle,  A.,
+   Ghosh,  S. S., Nikolaidis,  A.,  Stanley,  O. W.,  Uruñuela,  E.,
+   and The Brainhack Community
+   (2021). Brainhack: Developing a culture of open inclusive, community-driven
    neuroscience. Neuron, 109. `pdf <https://www.cell.com/neuron/pdf/S0896-6273(21)00231-2.pdf>`_.
 
 #. Mehta, P., Petersen, C. A., Wen, J. C., Bannit, M. R., Chen, P. P.,
