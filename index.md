@@ -20,5 +20,3 @@ I am the co-director of the UW [Center for Human Neuroscience](https://depts.was
 ## Professional biography
 
 Ariel Rokem received a Bachelors and Masters degree in Biology and Cognitive Psychology at the Hebrew University of Jerusalem (2002 and 2005). He then received a PhD in neuroscience from UC Berkeley (2010) and additional postdoctoral training in computational neuroimaging at Stanford (2011 - 2015). He was a Senior Data Scientist at the University of Washington eScience Institute (2015-2020), before joining the faculty of the Department of Psychology in 2020. His group ([https://neuroinformatics.uw.edu/](https://neuroinformatics.uw.edu/)) develops computational tools to study the biological basis of brain function and applies them to a variety of research questions.
-
-[CV](https://github.com/arokem/arokem-cv/raw/master/arokemCV.pdf)
